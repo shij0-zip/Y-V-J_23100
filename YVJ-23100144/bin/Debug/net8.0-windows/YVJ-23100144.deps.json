@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "YVJ-23100144/1.0.0": {
+        "runtime": {
+          "YVJ-23100144.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "YVJ-23100144/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
