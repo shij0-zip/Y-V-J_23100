@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ingelaptop\\Desktop\\Y-V-J_23100\\YVJ-23100144\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3498A53D-2BE7-4985-95D2-1010415BFC98}|YVJ-23100144.csproj|c:\\users\\ingelaptop\\desktop\\y-v-j_23100\\yvj-23100144\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3498A53D-2BE7-4985-95D2-1010415BFC98}|YVJ-23100144.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ingelaptop\\Desktop\\Y-V-J_23100\\YVJ-23100144\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\ingelaptop\\Desktop\\Y-V-J_23100\\YVJ-23100144\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T20:51:02.163Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
