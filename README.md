@@ -1,4 +1,13 @@
-# Y-V-J_23100
+╭── ⋅ ⋅ ── ✩ ── ⋅ ⋅ ──╮
+  This is our first 
+    C# VS proyect
+        collab
+        
+  Hope you like it !
 
-
-This is our first C# VS Studio proyect collab
+ Development Status: 
+                     
+   20% █▒▒▒▒▒▒▒▒▒    
+ ⋘ 𝑃𝑙𝑒𝑎𝑠𝑒 𝑤𝑎𝑖𝑡... ⋙ 
+╰── ⋅ ⋅ ── ✩ ── ⋅ ⋅ ──╯
+    © YVJTeam 2024 

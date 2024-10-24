@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\ingelaptop\\Desktop\\Y-V-J_23100\\YVJ-23100144\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3498A53D-2BE7-4985-95D2-1010415BFC98}|YVJ-23100144.csproj|c:\\users\\ingelaptop\\desktop\\y-v-j_23100\\yvj-23100144\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3498A53D-2BE7-4985-95D2-1010415BFC98}|YVJ-23100144.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ingelaptop\\Desktop\\Y-V-J_23100\\YVJ-23100144\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3498A53D-2BE7-4985-95D2-1010415BFC98}|YVJ-23100144.csproj|c:\\users\\ingelaptop\\desktop\\y-v-j_23100\\yvj-23100144\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3498A53D-2BE7-4985-95D2-1010415BFC98}|YVJ-23100144.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ingelaptop\\Desktop\\Y-V-J_23100\\YVJ-23100144\\CarteraClientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CarteraClientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3498A53D-2BE7-4985-95D2-1010415BFC98}|YVJ-23100144.csproj|c:\\users\\ingelaptop\\desktop\\y-v-j_23100\\yvj-23100144\\carteraclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3498A53D-2BE7-4985-95D2-1010415BFC98}|YVJ-23100144.csproj|solutionrelative:carteraclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ingelaptop\\Desktop\\Y-V-J_23100\\YVJ-23100144\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,20 +39,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "CarteraClientes.cs",
               "DocumentMoniker": "C:\\Users\\ingelaptop\\Desktop\\Y-V-J_23100\\YVJ-23100144\\CarteraClientes.cs",
               "RelativeDocumentMoniker": "CarteraClientes.cs",
               "ToolTip": "C:\\Users\\ingelaptop\\Desktop\\Y-V-J_23100\\YVJ-23100144\\CarteraClientes.cs",
               "RelativeToolTip": "CarteraClientes.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAcwBgAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwBQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-23T21:24:09.48Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\ingelaptop\\Desktop\\Y-V-J_23100\\YVJ-23100144\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -60,8 +60,7 @@
               "RelativeToolTip": "Form1.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAxwAwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T20:52:06.761Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-23T20:52:06.761Z"
             }
           ]
         }
